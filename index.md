@@ -1,15 +1,6 @@
 # Welcome to Sungmin's home
 
-```markdown
-
-**Bold** and _Italic_ and `Code` text
-![Image](IMG_1452.jpg)
-
-[Link](url) and ![Image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg)
-
-<img src="https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg">
-
-```
+![Image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg)
 
 
 ## Rsearch interests
@@ -24,11 +15,11 @@ It is excited to understand how gene expression is altered on fluctuated conditi
 Enzymes or metabolites/products derived from microorganisms are useful resources for the industry.
 
 
-### Publications
+## Publications
 See [my Google scholar](https://scholar.google.com/citations?user=gFb4U-0AAAAJ&hl=en).
 
 
-### Contact
+## Contact
 Sungmin Hwang, Ph.D. <br>
 Postdoctoral Associate <br>
 Schmid lab at Duke University <br>
