@@ -1,9 +1,7 @@
 # Welcome to Sungmin's home
 
 
-
-
-![Image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg "Logo Title Text 1")
+![Main image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg)
 
 ## Rsearch interests
 
