@@ -5,9 +5,9 @@
 **Bold** and _Italic_ and `Code` text
 ![Image](IMG_1452.jpg)
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg)
 
-<img src="IMG_1452.jpg">
+<img src="https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg">
 
 ```
 
