@@ -1,21 +1,14 @@
 # Welcome to Sungmin's home
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
+![Image](IMG_1452.jpg)
 
 [Link](url) and ![Image](src)
+
+<img src="IMG_1452.jpg">
+
 ```
 
 
@@ -25,7 +18,7 @@ Syntax highlighted code block
 Extremophilic microorganisms are awesome guys getting a variety of unique pathways to survive in harsh environments.
 
 ### Gene regulatory mechanism
-Several different pathways and 
+It is excited to understand how gene expression is altered on fluctuated conditions.
 
 ### Biotechnology
 Enzymes or metabolites/products derived from microorganisms are useful resources for the industry.
