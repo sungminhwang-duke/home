@@ -2,7 +2,8 @@
 
 ![Image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg)
 
-
+<br>
+<br>
 ## Rsearch interests
 
 ### Microbial physiology
@@ -14,11 +15,13 @@ It is excited to understand how gene expression is altered on fluctuated conditi
 ### Biotechnology
 Enzymes or metabolites/products derived from microorganisms are useful resources for the industry.
 
-
+<br>
+<br>
 ## Publications
 See [my Google scholar](https://scholar.google.com/citations?user=gFb4U-0AAAAJ&hl=en).
 
-
+<br>
+<br>
 ## Contact
 Sungmin Hwang, Ph.D. <br>
 Postdoctoral Associate <br>
