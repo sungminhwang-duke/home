@@ -1,7 +1,3 @@
-#
-
-# Welcome to Sungmin's home
-
 ## Rsearch interests
 
 ### 1. Microbial physiology
