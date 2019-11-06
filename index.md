@@ -1,8 +1,5 @@
 # Welcome to Sungmin's home
 
-
-![Main image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg)
-
 ## Rsearch interests
 
 ### Microbial physiology
