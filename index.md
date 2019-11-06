@@ -1,12 +1,12 @@
 # Welcome to Sungmin's home
 
-![Image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg)
 
 
-dfeaf
 
-'''
-
+```markdown
+![Image](https://github.com/sungminhwang-duke/home/blob/master/IMG_1452.jpg "Logo Title Text 1")
+```
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ## Rsearch interests
 
