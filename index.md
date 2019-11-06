@@ -2,13 +2,13 @@
 
 ## Rsearch interests
 
-### Microbial physiology
+### 1. Microbial physiology
 Extremophilic microorganisms are awesome guys getting a variety of unique pathways to survive in harsh environments.
 
-### Gene regulatory mechanism
+### 2. Gene regulatory mechanism
 It is excited to understand how gene expression is altered on fluctuated conditions.
 
-### Biotechnology
+### 3. Biotechnology
 Enzymes or metabolites/products derived from microorganisms are useful resources for the industry.
 
 
