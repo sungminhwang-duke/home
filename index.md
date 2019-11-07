@@ -1,11 +1,11 @@
-# Welcome to Sungmin's home
+# Welcome to Sungmin's Research
 
-## Rsearch interests
+## Research interests
 
 ### 1. Microbial physiology
 Extremophilic microorganisms are awesome guys getting a variety of unique pathways to survive in harsh environments.
 
-### 2. Gene regulatory mechanism
+### 2. Regulatory mechanism
 It is excited to understand how gene expression is altered on fluctuated conditions.
 
 ### 3. Biotechnology
