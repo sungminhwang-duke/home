@@ -1,4 +1,4 @@
-# Welcome to Sungmin's Research
+# Welcome to Hwang lab
 
 ## Research interests
 
